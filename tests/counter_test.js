@@ -42,3 +42,5 @@ describe("hello_solana counter test", () => {
     console.log("Counter after increment:", account.count.toString());
   });
 });
+
+//added some comments
